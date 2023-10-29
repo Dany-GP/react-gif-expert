@@ -1,0 +1,1 @@
+export const API_URL = 'https://api.giphy.com/v1/gifs/search?api_key=DZLfGy97pN64k0NzXyAYogty3Z0Caguw';
